@@ -26,7 +26,16 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-
+.vscode/
+ncit.owl
+Thesaurus.owl
+ncit.obo
+.DS_Store
+obo-owl/
+ncit_serialized.ttl
+construct.ttl
+construct.txt
+Thesaurus.jsonld
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
